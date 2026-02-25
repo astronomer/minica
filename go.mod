@@ -1,3 +1,3 @@
 module github.com/jsha/minica
 
-go 1.22
+go 1.26
