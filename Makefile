@@ -1,8 +1,8 @@
 # Variables
-TAG := v1.1.2
+TAG := v1.1.3
 LDFLAGS := -X main.buildVersion=$(TAG)
 GO111MODULE := on
-GO_VERSION := 1.26.0
+GO_VERSION := 1.26.3
 BINARY_NAME := minica
 
 # Default target
